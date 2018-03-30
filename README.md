@@ -3,7 +3,7 @@ A Gender Classification Python script using ScikitLearn by providing measurement
 
 Usage:
 ```python
-    python classifier.py
+    $ python classifier.py
 ```
 **Note**-```All the dependencies must be installed```
 
