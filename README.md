@@ -2,7 +2,7 @@
 A Gender Classification Python script using ScikitLearn by providing measurements (height, weight, shoe size)
 
 Usage:
-```python3
+```bash
     $ python classifier.py
 ```
 **Note**-```All the dependencies must be installed```
